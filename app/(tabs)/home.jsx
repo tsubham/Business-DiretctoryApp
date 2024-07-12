@@ -13,7 +13,7 @@ export default function home() {
     <Slider />
     <Category />
     <BusinessList/>
-    <View style={{height:100}}>
+    <View style={{height:50}}>
 
     </View>
     </ScrollView>
